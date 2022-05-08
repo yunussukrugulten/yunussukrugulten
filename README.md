@@ -5,7 +5,15 @@
 
 💬 Ask me about; **I wanted to pursue my career in software development so I firstly started with Web Design, Server, and Coding. I have been improving myself by the help of some online courses about my interest areas. I received training in BilgeAdam Boost Software Program to have a more solid and strong background in software development. My training included software languages such as C#, .NET, OOP, ASP.NET MVC, T-SQL, MS SQL Server, PostgreSQL, LINQ, Entity Framework, ADO.NET, HTML, CSS, JavaScript, Bootstrap, and JQuery. It was a very comprehensive training that was supported entirely by the above listed software languages. Due to my interest in mobile applications, I turned to React Native, which has been popular lately. I took React Native, Redux, Firebase, GIT, Web API and Deployment (Docker, Kubernetes, NodePart, Deamonset and Heroku) trainings.**
 
-- 🔭 Completed Projects [JSClockOdev](https://github.com/yunussukrugulten/JSClockOdev), [JavascriptileToDoList](https://github.com/yunussukrugulten/JavascriptileToDoList), [AsianKitchen-sMenu](https://github.com/yunussukrugulten/AsianKitchen-sMenu), [PatikaStore](https://github.com/yunussukrugulten/PatikaStore), [MusicApp](https://github.com/yunussukrugulten/MusicApp), [ReactNativeToDoApp](https://github.com/yunussukrugulten/ReactNativeToDoApp), [OOP-CounterStrike-GO](https://github.com/yunussukrugulten/OOP-CounterStrike-GO), [Northwind-Query-TSQL](https://github.com/yunussukrugulten/Northwind-Query-TSQL)
+🔭 Completed Projects;
+- [JSClockOdev](https://github.com/yunussukrugulten/JSClockOdev)
+- [JavascriptileToDoList](https://github.com/yunussukrugulten/JavascriptileToDoList)
+- [AsianKitchen-sMenu](https://github.com/yunussukrugulten/AsianKitchen-sMenu)
+- [PatikaStore](https://github.com/yunussukrugulten/PatikaStore)
+- [MusicApp](https://github.com/yunussukrugulten/MusicApp)
+- [ReactNativeToDoApp](https://github.com/yunussukrugulten/ReactNativeToDoApp)
+- [OOP-CounterStrike-GO](https://github.com/yunussukrugulten/OOP-CounterStrike-GO)
+- [Northwind-Query-TSQL](https://github.com/yunussukrugulten/Northwind-Query-TSQL)
 
 📫 How to reach me **yunussukrugulten@gmail.com**
 
