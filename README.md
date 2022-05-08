@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yunussukrugulten&label=Profile%20views&color=0e75b6&style=flat" alt="yunussukrugulten" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yunussukrugulten" alt="yunussukrugulten" /></a> </p>
+- 💬 Ask me about; **I wanted to pursue my career in software development so I firstly started with Web Design, Server, and Coding. I have been improving myself by the help of some online courses about my interest areas. I received training in BilgeAdam Boost Software Program to have a more solid and strong background in software development. My training included software languages such as C#, .NET, OOP, ASP.NET MVC, T-SQL, MS SQL Server, PostgreSQL, LINQ, Entity Framework, ADO.NET, HTML, CSS, JavaScript, Bootstrap, and JQuery. It was a very comprehensive training that was supported entirely by the above listed software languages. Due to my interest in mobile applications, I turned to React Native, which has been popular lately. I took React Native, Redux, Firebase, GIT, Web API and Deployment (Docker, Kubernetes, NodePart, Deamonset and Heroku) trainings.**
 
 - 🔭 Completed Projects [JSClockOdev](https://github.com/yunussukrugulten/JSClockOdev)
 - 🔭 Completed Projects [JavascriptileToDoList](https://github.com/yunussukrugulten/JavascriptileToDoList)
@@ -14,13 +14,9 @@
 - 🔭 Completed Projects [OOP-CounterStrike-GO](https://github.com/yunussukrugulten/OOP-CounterStrike-GO)
 - 🔭 Completed Projects [Northwind-Query-TSQL](https://github.com/yunussukrugulten/Northwind-Query-TSQL)
 
-- 💬 Ask me about; **I wanted to pursue my career in software development so I firstly started with Web Design, Server, and Coding. I have been improving myself by the help of some online courses about my interest areas.
-**
-I received training in BilgeAdam Boost Software Program to have a more solid and strong background in software development. My training included software languages such as C#, .NET, OOP, ASP.NET MVC, T-SQL, MS SQL Server, PostgreSQL, LINQ, Entity Framework, ADO.NET, HTML, CSS, JavaScript, Bootstrap, and JQuery. It was a very comprehensive training that was supported entirely by the above listed software languages.
-**
-Due to my interest in mobile applications, I turned to React Native, which has been popular lately. I took React Native, Redux, Firebase, GIT, Web API and Deployment (Docker, Kubernetes, NodePart, Deamonset and Heroku) trainings.**
-
 - 📫 How to reach me **yunussukrugulten@gmail.com**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yunussukrugulten" alt="yunussukrugulten" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
