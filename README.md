@@ -24,7 +24,7 @@
 <a href="https://www.hackerrank.com/yunussukrugulten" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yunussukrugulten" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">Skills:</h3></p>
+<h2 align="left">Skills</h3></p>
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
