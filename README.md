@@ -27,6 +27,8 @@
 <a href="https://instagram.com/yunussukrugulten" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yunussukrugulten" height="30" width="40" /></a>
 </p>
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 <h2 align="left">Skills</h3></p>
 
 <h3 align="left">Programming Languages:</h3>
@@ -87,6 +89,8 @@
      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>  
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yunussukrugulten" alt="yunussukrugulten" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yunussukrugulten&show_icons=true&locale=en&layout=compact" alt="yunussukrugulten" /></p>
@@ -94,3 +98,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yunussukrugulten&show_icons=true&locale=en" alt="yunussukrugulten" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yunussukrugulten&" alt="yunussukrugulten" /></p>
+
+<p align="right">(<a href="#top">back to top</a>)</p>
