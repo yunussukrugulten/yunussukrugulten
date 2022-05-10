@@ -11,6 +11,7 @@
 - [AsianKitchen-sMenu](https://github.com/yunussukrugulten/AsianKitchen-sMenu)
 - [PatikaStore](https://github.com/yunussukrugulten/PatikaStore)
 - [MusicApp](https://github.com/yunussukrugulten/MusicApp)
+- [TarifkaApp](https://github.com/yunussukrugulten/TarifkaApp)
 - [ReactNativeToDoApp](https://github.com/yunussukrugulten/ReactNativeToDoApp)
 - [OOP-CounterStrike-GO](https://github.com/yunussukrugulten/OOP-CounterStrike-GO)
 - [Northwind-Query-TSQL](https://github.com/yunussukrugulten/Northwind-Query-TSQL)
