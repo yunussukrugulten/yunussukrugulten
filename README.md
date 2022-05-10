@@ -89,9 +89,9 @@
      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>  
 
-<h2 align="left">GitHub Statistics</h3></p>
-
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+<h2 align="left">GitHub Statistics</h3></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yunussukrugulten" alt="yunussukrugulten" /></a> </p>
 
