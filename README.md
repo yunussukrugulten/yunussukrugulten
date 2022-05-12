@@ -6,12 +6,12 @@
 💬 **About Me:** *I wanted to pursue my career in software development so I firstly started with Web Design, Server and Coding. I have been improving myself by the help of some online courses about my interest areas. I received training in BilgeAdam Boost Software Program to have a more solid and strong background in software development. My training included software languages such as C#, .NET, OOP, ASP.NET MVC, T-SQL, MS SQL Server, PostgreSQL, LINQ, Entity Framework, ADO.NET, HTML, CSS, JavaScript, Bootstrap and JQuery. It was a very comprehensive training that was supported entirely by the above listed software languages. Due to my interest in mobile applications, I turned to React Native, which has been popular lately. I took React Native, Redux, Firebase, GIT, Web API and Deployment (Docker, Kubernetes, NodePart, Deamonset and Heroku) trainings.*
 
 🔭 **Completed Projects:**
+- [TarifkaApp](https://github.com/yunussukrugulten/TarifkaApp)
+- [PatikaStore](https://github.com/yunussukrugulten/PatikaStore)
+- [MusicApp](https://github.com/yunussukrugulten/MusicApp)
 - [JSClockOdev](https://github.com/yunussukrugulten/JSClockOdev)
 - [JavascriptileToDoList](https://github.com/yunussukrugulten/JavascriptileToDoList)
 - [AsianKitchen-sMenu](https://github.com/yunussukrugulten/AsianKitchen-sMenu)
-- [PatikaStore](https://github.com/yunussukrugulten/PatikaStore)
-- [MusicApp](https://github.com/yunussukrugulten/MusicApp)
-- [TarifkaApp](https://github.com/yunussukrugulten/TarifkaApp)
 - [ReactNativeToDoApp](https://github.com/yunussukrugulten/ReactNativeToDoApp)
 - [OOP-CounterStrike-GO](https://github.com/yunussukrugulten/OOP-CounterStrike-GO)
 - [Northwind-Query-TSQL](https://github.com/yunussukrugulten/Northwind-Query-TSQL)
@@ -21,10 +21,10 @@
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yunussukrugulten" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yunussukrugulten" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/yunussukrugulten" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yunussukrugulten" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/19078875" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19078875" height="30" width="30" /></a>  
-  <a href="https://meta.stackexchange.com/users/1191961" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Stack_Exchange_icon.svg/768px-Stack_Exchange_icon.svg.png?20190928184426" alt="1191961" height="30" width="30" /></a>  
+<a href="https://meta.stackexchange.com/users/1191961" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Stack_Exchange_icon.svg/768px-Stack_Exchange_icon.svg.png?20190928184426" alt="1191961" height="30" width="30" /></a>  
 <a href="https://instagram.com/yunussukrugulten" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yunussukrugulten" height="30" width="30" /></a>
+<a href="https://www.hackerrank.com/yunussukrugulten" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yunussukrugulten" height="30" width="30" /></a>
 </p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
