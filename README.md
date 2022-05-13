@@ -94,8 +94,6 @@
 
 <h2 align="left">GitHub Statistics</h3></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yunussukrugulten" alt="yunussukrugulten" /></a> </p>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=yunussukrugulten&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yunussukrugulten&show_icons=true&locale=en&layout=compact" alt="yunussukrugulten" /></p>
