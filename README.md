@@ -96,6 +96,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yunussukrugulten" alt="yunussukrugulten" /></a> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=yunussukrugulten-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yunussukrugulten&show_icons=true&locale=en&layout=compact" alt="yunussukrugulten" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yunussukrugulten&show_icons=true&locale=en" alt="yunussukrugulten" /></p>
