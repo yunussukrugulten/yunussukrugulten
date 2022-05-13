@@ -98,8 +98,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yunussukrugulten&show_icons=true&locale=en&layout=compact" alt="yunussukrugulten" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=yunussukrugulten&show_icons=true&locale=en" alt="yunussukrugulten" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yunussukrugulten&show_icons=true&locale=en" alt="yunussukrugulten" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yunussukrugulten&" alt="yunussukrugulten" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yunussukrugulten&" alt="yunussukrugulten" /></p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
