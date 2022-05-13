@@ -94,9 +94,9 @@
 
 <h2 align="left">GitHub Statistics</h3></p>
 
- /* <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yunussukrugulten" alt="yunussukrugulten" /></a> </p> /*
+/* <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yunussukrugulten" alt="yunussukrugulten" /></a> </p> */
  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?yunussukrugulten=ryo-ma&row=2&column=3" alt="yunussukrugulten" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yunussukrugulten-ma&row=2&column=3" alt="yunussukrugulten" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yunussukrugulten&show_icons=true&locale=en&layout=compact" alt="yunussukrugulten" /></p>
 
