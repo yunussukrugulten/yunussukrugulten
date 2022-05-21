@@ -31,7 +31,7 @@
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<h2 align="left">Skills</h3></p>
+<h2 align="left">Skills</h2></p>
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
@@ -93,7 +93,7 @@
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<h2 align="left">GitHub Statistics</h3></p>
+<h2 align="left">GitHub Statistics</h2></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yunussukrugulten&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
