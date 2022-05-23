@@ -18,8 +18,8 @@
 - [OOP-CounterStrike-GO](https://github.com/yunussukrugulten/OOP-CounterStrike-GO)
 - [Northwind-Query-TSQL](https://github.com/yunussukrugulten/Northwind-Query-TSQL)
 
-🎨 **Portfolio:** https://yunussukrugulten.github.io<br>
-📫 **How To Reach Me:** yunussukrugulten@gmail.com
+🎨 **Portfolio:**<br>https://yunussukrugulten.github.io<br>
+📫 **How To Reach Me:**<br>yunussukrugulten@gmail.com
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
