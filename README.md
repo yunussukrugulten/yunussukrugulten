@@ -1,4 +1,4 @@
-<h1 align="center">Hi all, I'm Yunus ! <img src="https://github.com/yunussukrugulten/yunussukrugulten/blob/main/Hello.gif" alt="hello" width=25 height=25 /></h1>
+<h1 align="center">Hi all, I'm Yunus ! <img src="https://github.com/yunussukrugulten/yunussukrugulten/blob/main/Hello.gif" alt="hello" width=27 height=27 /></h1>
 <p align="center"> <img src="https://github.com/yunussukrugulten/yunussukrugulten/blob/main/React.gif" alt="react-native" width=200 height=200 /> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yunussukrugulten&label=Profile%20views&color=0e75b6&style=flat" alt="yunussukrugulten" /> </p>
 
@@ -18,7 +18,7 @@
 - [Northwind-Query-TSQL](https://github.com/yunussukrugulten/Northwind-Query-TSQL)
 
 🎨 **Portfolio:**<br>https://yunussukrugulten.github.io<br><br>
-📫 **How To Reach Me?:**<br>yunussukrugulten@gmail.com
+📫 **How To Reach Me ?:**<br>yunussukrugulten@gmail.com
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
