@@ -1,4 +1,4 @@
-<h1 align="center">Hi all, I'm Yunus ! 👋<img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" alt="emoji" width=15 height=15 /></h1>
+<h1 align="center">Hi all, I'm Yunus ! 👋<img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" alt="emoji" width=50 height=50 /></h1>
 <h3 align="center">React Native Developer</h3>
 <p align="center"> <img src="https://github.com/yunussukrugulten/yunussukrugulten/blob/main/React.gif" alt="react-native" width=200 height=200 /> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yunussukrugulten&label=Profile%20views&color=0e75b6&style=flat" alt="yunussukrugulten" /> </p>
