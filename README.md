@@ -17,7 +17,7 @@
 - [OOP-CounterStrike-GO](https://github.com/yunussukrugulten/OOP-CounterStrike-GO)
 - [Northwind-Query-TSQL](https://github.com/yunussukrugulten/Northwind-Query-TSQL)
 
-🎨 **Portfolio:**<br>https://yunussukrugulten.github.io<br><br>
+🎨 **Portfolio:**<br>https://www.yunussukrugulten.com<br><br>
 📫 **How To Reach Me ?:**<br>yunussukrugulten@gmail.com
 
 <h3 align="left">Connect With Me:</h3>
