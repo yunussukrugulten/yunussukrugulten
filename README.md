@@ -59,8 +59,8 @@ Swift and React Native. I attended trainings about these topics as well.*
 
 <h3 align="left">Devops, Backend and Database as a Service:</h3>
 <p align="left">
-   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql" width="50" height="50"/>
    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/>
+   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql" width="50" height="50"/>
 </p>
   
 
