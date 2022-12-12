@@ -2,7 +2,14 @@
 <p align="center"> <img src="https://github.com/yunussukrugulten/yunussukrugulten/blob/main/React.gif" alt="react-native" width=200 height=200 /> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yunussukrugulten&label=Profile%20views&color=0e75b6&style=flat" alt="yunussukrugulten" /> </p>
 
-💬 **About Me:** *I wanted to pursue my career in software development so I firstly started with Web Design, Server and Coding. I have been improving myself by the help of some online courses about my interest areas. I received training in BilgeAdam Boost Software Program to have a more solid and strong background in software development. My training included software languages such as C#, .NET, OOP, ASP.NET MVC, T-SQL, MS SQL Server, PostgreSQL, LINQ, Entity Framework, ADO.NET, HTML, CSS, JavaScript, Bootstrap and JQuery. It was a very comprehensive training that was supported entirely by the above listed software languages. Due to my interest in mobile applications, I turned to React Native, which has been popular lately. I took React Native, Redux, Firebase, GIT, Web API and Deployment (Docker, Kubernetes, NodePart, Deamonset and Heroku) trainings.*
+💬 **About Me:** *I wanted to pursue my career in software development so I firstly started with Web
+Design, Server and Coding. I have been improving myself by the help of some online
+courses about my interest areas. I received training in BilgeAdam Boost Software Program to have a more
+solid and strong background in software development. My training included software languages such as
+C#, .NET, OOP, ASP.NET MVC, T-SQL, MS SQL Server, PostgreSQL, LINQ, Entity Framework, ADO.NET,
+HTML, CSS, JavaScript, Bootstrap and JQuery. It was a very comprehensive training that was supported
+entirely by the above listed software languages. Due to my interest in mobile applications, I focused on
+Swift and React Native. I attended trainings about these topics as well.*
 
 🔭 **Completed Projects:**
 - [MusicApp](https://github.com/yunussukrugulten/MusicApp)
