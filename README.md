@@ -24,7 +24,7 @@ Swift and React Native. I attended trainings about these topics as well.*
 - [OOP-CounterStrike-GO](https://github.com/yunussukrugulten/OOP-CounterStrike-GO)
 - [Northwind-Query-TSQL](https://github.com/yunussukrugulten/Northwind-Query-TSQL)
 
-🎨 **Portfolio:**<br>https://www.yunussukrugulten.com<br><br>
+🎨 **Portfolio:**<br><a href="https://www.yunussukrugulten.com/" target="_blank">https://www.yunussukrugulten.com</a><br><br>
 📫 **How To Reach Me ?:**<br>yunussukrugulten@gmail.com
 
 <h3 align="left">Connect With Me:</h3>
