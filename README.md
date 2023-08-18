@@ -6,7 +6,7 @@
 Design, Server and Coding. I have been improving myself by the help of some online
 courses about my interest areas. I received training in BilgeAdam Boost Software Program to have a more
 solid and strong background in software development. My training included software languages such as
-C#, .NET, OOP, ASP.NET MVC, T-SQL, MS SQL Server, PostgreSQL, LINQ, Entity Framework, ADO.NET,
+C#, .NET, OOP, ASP.NET MVC, T-SQL, MS SQL Server, LINQ, Entity Framework, ADO.NET,
 HTML, CSS, JavaScript, Bootstrap and JQuery. It was a very comprehensive training that was supported
 entirely by the above listed software languages. Due to my interest in mobile applications, I focused on
 Swift and React Native. I attended trainings about these topics as well.*
