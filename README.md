@@ -28,13 +28,13 @@
 📫 <b>How To Reach Me ?</b><br>
 <a href="mailto:yunussukrugulten@gmail.com">yunussukrugulten@gmail.com</a>
 
-<h3 align="left">Connect With Me:</h3>
+🔗 <b>Connect With Me:</b>
 <p align="left">
-<a href="https://linkedin.com/in/yunussukrugulten" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yunussukrugulten" height="25" width="25" /></a>
-<a href="https://stackoverflow.com/users/19078875" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19078875" height="25" width="25" /></a>  
-<a href="https://meta.stackexchange.com/users/1191961" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Stack_Exchange_icon.svg/768px-Stack_Exchange_icon.svg.png?20190928184426" alt="1191961" height="25" width="25" /></a>  
-<a href="https://instagram.com/yunussukrugulten" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yunussukrugulten" height="25" width="25" /></a>
-<a href="https://www.hackerrank.com/yunussukrugulten" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yunussukrugulten" height="25" width="25" /></a>
+<a href="https://linkedin.com/in/yunussukrugulten" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yunussukrugulten" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/users/19078875" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19078875" height="20" width="20" /></a>
+<a href="https://meta.stackexchange.com/users/1191961" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Stack_Exchange_icon.svg/768px-Stack_Exchange_icon.svg.png?20190928184426" alt="1191961" height="20" width="20" /></a> 
+<a href="https://instagram.com/yunussukrugulten" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yunussukrugulten" height="20" width="20" /></a>
+<a href="https://www.hackerrank.com/yunussukrugulten" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yunussukrugulten" height="20" width="20" /></a>
 </p>
 
 <p align="right">( <a href="#top">back to top</a> )</p>
@@ -82,8 +82,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yunussukrugulten&show_icons=true&locale=en&layout=compact" alt="yunussukrugulten" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=yunussukrugulten&show_icons=true&locale=en" alt="yunussukrugulten" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yunussukrugulten&show_icons=true&locale=en" alt="yunussukrugulten" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yunussukrugulten&" alt="yunussukrugulten" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yunussukrugulten&" alt="yunussukrugulten" /></p>
 
 <p align="right">( <a href="#top">back to top</a> )</p>
