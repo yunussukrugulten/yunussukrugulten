@@ -1,9 +1,10 @@
-<h1 align="center">Hi all, I'm Yunus ! <img src="https://github.com/yunussukrugulten/yunussukrugulten/blob/main/Hello.gif?raw=true" alt="hello" width=27 height=27 /><br>
+<h1 align="center">Hi all, I'm Yunus ! <img src="https://github.com/yunussukrugulten/yunussukrugulten/blob/main/Hello.gif?raw=true" alt="hello" width=27 height=27 /></h1>
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=yunussukrugulten&label=Profile%20views&color=0e75b6&style=flat" alt="yunussukrugulten" />
-</h1>
-💬 **About Me:** *I wanted to pursue my career in software development so I firstly started with Web Design, Server and Coding. I have been improving myself by the help of some online courses about my interest areas. I received training in BilgeAdam Boost Software Program to have a more solid and strong background in software development. My training included software languages such as C#, .NET, OOP, ASP.NET MVC, T-SQL, MS SQL Server, LINQ, Entity Framework, ADO.NET, HTML, CSS, JavaScript, Bootstrap and JQuery. It was a very comprehensive training that was supported entirely by the above listed software languages. Due to my interest in mobile applications, I focused on Swift and React Native. I attended trainings about these topics as well.*
+</p>
+💬 <b>About Me:</b> <i>I wanted to pursue my career in software development so I firstly started with Web Design, Server and Coding. I have been improving myself by the help of some online courses about my interest areas. I received training in BilgeAdam Boost Software Program to have a more solid and strong background in software development. My training included software languages such as C#, .NET, OOP, ASP.NET MVC, T-SQL, MS SQL Server, LINQ, Entity Framework, ADO.NET, HTML, CSS, JavaScript, Bootstrap and JQuery. It was a very comprehensive training that was supported entirely by the above listed software languages. Due to my interest in mobile applications, I focused on Swift and React Native. I attended trainings about these topics as well.</i>
 
-🔭 **Completed Projects:**
+🔭 <b>Completed Projects:</b>
 - [MusicApp](https://github.com/yunussukrugulten/MusicApp)
 - [TarifkaApp](https://github.com/yunussukrugulten/TarifkaApp)
 - [CodeWorkApp](https://github.com/yunussukrugulten/CodeWorkApp)
@@ -16,8 +17,8 @@
 - [OOP-CounterStrike-GO](https://github.com/yunussukrugulten/OOP-CounterStrike-GO)
 - [Northwind-Query-TSQL](https://github.com/yunussukrugulten/Northwind-Query-TSQL)
 
-🎨 **Portfolio:**<br><a href="https://www.yunussukrugulten.com/" target="_blank">https://www.yunussukrugulten.com</a><br><br>
-📫 **How To Reach Me ?:**<br>yunussukrugulten@gmail.com
+🎨 <b>Portfolio:</b><br><a href="https://www.yunussukrugulten.com/" target="_blank">https://www.yunussukrugulten.com</a><br><br>
+📫 <b>How To Reach Me ?</b><br>yunussukrugulten@gmail.com
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
