@@ -1,7 +1,9 @@
 <h1 align="center">Hi all, I'm Yunus ! <img src="https://i.ibb.co/kmVnMcp/Hello.gif" alt="hello" width=27 height=27 /></h1>
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=yunussukrugulten&label=Profile%20views&color=0e75b6&style=flat" alt="yunussukrugulten" />
 </p>
+
 💬 <b>About Me:</b> <i>I wanted to pursue my career in software development so I firstly started with Web Design, Server and Coding. I have been improving myself by the help of some online courses about my interest areas. I received training in BilgeAdam Boost Software Program to have a more solid and strong background in software development. My training included software languages such as C#, .NET, OOP, ASP.NET MVC, T-SQL, MS SQL Server, LINQ, Entity Framework, ADO.NET, HTML, CSS, JavaScript, Bootstrap and JQuery. It was a very comprehensive training that was supported entirely by the above listed software languages. Due to my interest in mobile applications, I focused on Swift and React Native. I attended trainings about these topics as well.</i>
 <br><br>
 🔭 <b>Completed Projects:</b>
@@ -19,8 +21,11 @@
 <li><a href="https://github.com/yunussukrugulten/Northwind-Query-TSQL" target="blank">Northwind-Query-TSQL</a></li>
 </ul>
 
-🎨 <b>Portfolio:</b><br><a href="https://www.yunussukrugulten.com/" target="_blank">https://www.yunussukrugulten.com</a><br><br>
-📫 <b>How To Reach Me ?</b><br>yunussukrugulten@gmail.com
+🎨 <b>Portfolio:</b><br>
+<a href="https://www.yunussukrugulten.com/" target="_blank">https://www.yunussukrugulten.com</a>
+<br><br>
+📫 <b>How To Reach Me ?</b><br>
+<a href="mailto:yunussukrugulten@gmail.com">yunussukrugulten@gmail.com</a>
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
@@ -33,7 +38,7 @@
 
 <p align="right">(<a href="#top"> back to top </a>)</p>
 
-<h2 align="left">Skills</h2></p>
+<h2 align="left">Skills</h2>
 
 <h3 align="left">Mobile App and Programming Languages:</h3>
 <p align="left">
@@ -70,7 +75,7 @@
 
 <p align="right">(<a href="#top"> back to top </a>)</p>
 
-<h2 align="left">GitHub Statistics</h2></p>
+<h2 align="left">GitHub Statistics</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yunussukrugulten&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
