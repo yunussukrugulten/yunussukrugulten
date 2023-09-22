@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/kmVnMcp/Hello.gif" alt="hello" width=27 height=27 /></p>
+<p align="center"><img src="https://github.com/yunussukrugulten/yunussukrugulten/blob/main/Hello.gif?raw=true" alt="hello" width=40 height=40 /></p>
 <h1 align="center">Hi all, I'm Yunus !</h1>
 
 <p align="center">
@@ -82,8 +82,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yunussukrugulten&show_icons=true&locale=en&layout=compact" alt="yunussukrugulten" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yunussukrugulten&show_icons=true&locale=en" alt="yunussukrugulten" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=yunussukrugulten&show_icons=true&locale=en" alt="yunussukrugulten" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yunussukrugulten&" alt="yunussukrugulten" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yunussukrugulten&" alt="yunussukrugulten" /></p>
 
 <p align="right">( <a href="#top">back to top</a> )</p>
