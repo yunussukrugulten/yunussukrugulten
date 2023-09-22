@@ -36,7 +36,7 @@
 <a href="https://www.hackerrank.com/yunussukrugulten" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yunussukrugulten" height="25" width="25" /></a>
 </p>
 
-<p align="right">(<a href="#top"> back to top </a>)</p>
+<p align="right">( <a href="#top">back to top</a> )</p>
 
 <h2 align="left">Skills</h2>
 
@@ -73,7 +73,7 @@
 </p>
 
 
-<p align="right">(<a href="#top"> back to top </a>)</p>
+<p align="right">( <a href="#top">back to top</a> )</p>
 
 <h2 align="left">GitHub Statistics</h2>
 
@@ -85,4 +85,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yunussukrugulten&" alt="yunussukrugulten" /></p>
 
-<p align="right">(<a href="#top"> back to top </a>)</p>
+<p align="right">( <a href="#top">back to top</a> )</p>
