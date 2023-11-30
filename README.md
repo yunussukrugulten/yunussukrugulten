@@ -1,4 +1,4 @@
-<h1 align="center">Hi all,<img src="https://github.com/yunussukrugulten/yunussukrugulten/blob/main/Eyes.gif" alt="eyes" width=35 height=35 /><br>I'm Yunus Şükrü Gülten! <img src="https://github.com/yunussukrugulten/yunussukrugulten/blob/main/Hello.gif?raw=true" alt="hello" width=30 height=30 /></h1>
+<h1 align="center">Hi all,<img src="https://github.com/yunussukrugulten/yunussukrugulten/blob/main/Eyes.gif" alt="eyes" width=35 height=35 /><br>I'm Yunus Sukru Gulten! <img src="https://github.com/yunussukrugulten/yunussukrugulten/blob/main/Hello.gif?raw=true" alt="hello" width=30 height=30 /></h1>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=yunussukrugulten&label=Profile%20views&color=0e75b6&style=flat" alt="yunussukrugulten" />
