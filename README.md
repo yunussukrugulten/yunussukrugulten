@@ -79,7 +79,7 @@ Due to my interest in mobile application development, I was interested in Swift 
 
 <h2 align="left">GitHub Statistics</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yunussukrugulten&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yunussukrugulten" alt="yunussukrugulten" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yunussukrugulten&show_icons=true&locale=en&layout=compact" alt="yunussukrugulten" /></p>
 
