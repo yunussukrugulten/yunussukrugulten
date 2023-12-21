@@ -57,7 +57,7 @@ Due to my interest in mobile application development, I was interested in Swift 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50"/> 
 </p>
 
-<h3 align="left">Devops, Backend and Database as a Service:</h3>
+<h3 align="left">Database as a Service:</h3>
 <p align="left">
    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql" width="50" height="50"/>
 </p>
