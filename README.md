@@ -42,12 +42,10 @@ Due to my interest in mobile application development, I was interested in Swift 
 
 <h2 align="left">Skills</h2>
 
-<h3 align="left">Mobile App and Programming Languages:</h3>
+<h3 align="left">Programming Languages:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="50" height="50"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="react-native" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python.svg" alt="csharp" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
 </p>
 
 <h3 align="left">Frontend and Backend Development:</h3>
@@ -61,7 +59,6 @@ Due to my interest in mobile application development, I was interested in Swift 
 
 <h3 align="left">Devops, Backend and Database as a Service:</h3>
 <p align="left">
-   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/>
    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql" width="50" height="50"/>
 </p>
   
