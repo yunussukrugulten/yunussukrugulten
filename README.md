@@ -34,7 +34,6 @@ Due to my interest in mobile application development, I was interested in Swift 
 <a href="https://linkedin.com/in/yunussukrugulten" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yunussukrugulten" height="25" width="25" /></a>
 <a href="https://stackoverflow.com/users/19078875" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19078875" height="25" width="25" /></a>  
 <a href="https://meta.stackexchange.com/users/1191961" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Stack_Exchange_icon.svg/768px-Stack_Exchange_icon.svg.png?20190928184426" alt="1191961" height="25" width="25" /></a>  
-<a href="https://instagram.com/yunussukrugulten" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yunussukrugulten" height="25" width="25" /></a>
 <a href="https://www.hackerrank.com/yunussukrugulten" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yunussukrugulten" height="25" width="25" /></a>
 </p>
 
