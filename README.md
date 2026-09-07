@@ -10,6 +10,3 @@ Due to my interest in mobile application development, I was interested in Swift 
 
 🎨 <b>Portfolio:</b><br>
 <a href="https://www.yunussukrugulten.com/" target="_blank">https://www.yunussukrugulten.com</a>
-<br><br>
-📫 <b>How To Reach Me ?</b><br>
-<a href="mailto:yunussukrugulten@gmail.com">yunussukrugulten@gmail.com</a>
